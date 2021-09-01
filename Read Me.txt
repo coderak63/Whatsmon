@@ -1,0 +1,19 @@
+WhatsMon - A Whatsapp status monitoring tool
+
+
+########################################
+This script is only for Windows machine.
+########################################
+
+
+###   This is ready-to-run console software.
+###   All the dependencies are pre included, you have not to worry about that.
+
+
+#####
+Run this script in command prompt just by:-
+                                            python whatsmon.py
+                                         or python3 whatsmon.py
+
+
+###   All the trackings will be saved in 'status_data' folder by the contact name
